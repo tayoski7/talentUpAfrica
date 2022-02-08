@@ -1,0 +1,39 @@
+.fourthContain{
+    display:flex;
+    width:100%;
+}
+.fourthTextContain{
+    width:40%;
+    display: flex;
+    flex-direction: column; 
+    margin-top: 150px;
+    margin-left:6%;
+}
+.light{
+    color:#44444f;
+}
+.learnMore{
+    display: flex;
+    align-items: center;
+}.learnMore>img{
+    width:20px;
+    height:20px;
+}
+.learnMore>p{
+    color:#ff8c26;
+}
+.bold{
+    font-size:30px;
+    font-weight: bold;
+    color:#123e7d;
+    line-height: 40px;
+}
+.assessment{
+    margin-top: 40px;
+    width:90%;
+    margin-left:0%;
+
+}
+.imgContain{
+    width:50%;
+}

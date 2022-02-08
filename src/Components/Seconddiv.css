@@ -1,0 +1,97 @@
+.secondContain{
+     width: 100%;
+    background-color:white;
+} 
+.Words{
+    margin-top: 40px;
+    height: 100px;
+    width: 100%;
+    color: #123e7d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: medium;
+    font-style: normal;
+}
+.logos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logos2{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+.Words2{
+    margin-top: 30px;
+    height: 100px;
+    width: 100%;
+    color: #123e7d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: medium;
+    font-style: normal;
+}
+.note1{
+    width: 100%;
+    padding-top: 0px;
+    color: #123e7d;
+    /*margin-left: 20%;*/
+    font-weight: bold;
+    font-size: 30px;
+}
+.note2{
+    font-size: 17px;
+    width: 100%;
+    color:#44444f;
+   /* margin-left: 20%;*/
+}
+.note3{
+    width: 100%;
+    margin-top: -1%;
+    color: #44444f;
+    /*margin-left: 20%;*/
+}
+.note4{
+   /* width: 100%;
+    margin-top: -1%;
+    color: rgb(226, 225, 223);
+    margin-left: 21%;*/
+    color:#ff8c26;
+}
+.note4-contain{
+    display: flex;
+    width:150px;
+    height:30px;
+    margin-top: -10px;
+    align-items: center;
+}
+.arrow{
+    /*position: absolute;
+    margin-top: -2.3%;
+    margin-left: 27%;*/
+    width:20px;
+    height:10px;
+}
+/*.list{
+    position: absolute;
+    margin-top: -11%;
+    margin-left: 52%;
+}*/
+.notes{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+}
+.note-left{
+    display:flex;
+    flex-direction: column;
+    padding-top: 150px;
+    width:35%;
+    margin-left: 90px;
+}

@@ -1,0 +1,37 @@
+.fifthContain{
+    display:flex;
+    background-color: #f9fbfe;
+    justify-content: space-around;
+}
+.Learn{
+    display:flex;
+    align-items: center;
+    width:150px;
+}
+.arr{
+    width:15px;
+    height:15px;
+}
+.fifthTextContain{
+    display:flex;
+    flex-direction: column;
+    width:50%;
+    margin-top: 90px;
+}
+.Learn>p{
+    color:#ff8c26;
+}
+.smallText{
+    color:#4a4a55;
+}
+.fifthTextContain>h1{
+    color:#123e7d;
+}
+.careerContain{
+    width:50%;
+}
+.career{
+    width:80%;
+    margin-top:5%;
+    margin-left: 10%;
+}

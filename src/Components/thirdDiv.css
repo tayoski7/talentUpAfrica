@@ -1,0 +1,27 @@
+.section{
+  display: flex;
+  /*padding: 40px;*/
+  align-items: center;
+  width: 100%;
+  background-color: #f9fbfe;
+}
+
+.section_img{
+  width: 45%;
+}
+
+.section_body{
+  height: 300px;
+  flex-basis: 55%;
+}
+
+.section div h1{
+  color: #123e7d;
+  font-size: 30px;
+}
+
+.section div a{
+  text-decoration: none;
+  color: #ff8c26;
+  font-size: 20px;
+}

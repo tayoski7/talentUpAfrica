@@ -1,0 +1,157 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.uppercontainer{
+    /*width: 1140px;*/
+    width:90%;
+    height: 210px;
+    background-color: #123E7D;
+    /*margin-left: 116px;*/
+    margin-left: 5%;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+
+.inside .landing img{
+    height: 260px;
+    margin-left: 45px;
+    margin-top: -55px;
+}
+/* i added styles for writeup class*/
+.writeup{
+    margin-top: 40px;
+}
+.writeup .first{
+    margin-left: 380px;
+    color:white;
+    margin-top: -200px;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.writeup .second{
+    margin-left: 380px;
+    color:white;
+    /*margin-top: -25px;*/
+}
+
+.btn .btn1{
+    margin-left: 380px;
+    margin-top: 7px;
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FF8C26;
+    color: white;
+    border: none;
+    height: 35px;
+    width: 127px;
+    border-radius: 8px;
+}
+
+.btn .btn2{
+    margin-left: 10px;
+    margin-top: 7px;
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #FF8C26;
+    background-color: #123E7D;
+    border: 1px solid #FF8C26;
+    height: 35px;
+    width: 127px;
+    border-radius: 8px;
+}
+
+.lowercontainer{
+    width: 100%;
+    height: 250px;
+    background-color: #123E7D;
+    margin-top: 100px;
+}
+
+.newlogo img{
+    margin-top: 60px;
+    margin-left: 116px; 
+}
+
+.logo{
+    width: 150px;
+    margin-left: 116px;
+    margin-top: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.instagram img{
+    border-radius: 50px; 
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.facebook img{
+    border-radius: 50px; 
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.twitter img{
+    border-radius: 50px; 
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.linkedin img{
+    border-radius: 50px; 
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
+
+.icons p{
+    margin-top: 6px;
+    margin-left: 116px;
+    color: white;
+}
+
+.linkscontainer {
+    width: 700px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 400px;
+    margin-top: -155px;
+}
+
+.solutions p{
+    color:#FF8C26;
+}
+
+.company p{
+    color:#FF8C26;
+}
+
+.resources p{
+    color:#FF8C26;
+}
+
+.set a{
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+}
+
+.set1 a{
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+}
+
+.set2 {
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+}
